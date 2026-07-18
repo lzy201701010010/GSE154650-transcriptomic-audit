@@ -1,0 +1,10 @@
+inputs/
+results/
+.Rhistory
+.RData
+.Rproj.user/
+*.tmp
+*.log
+*.cache
+renv/library/
+.venv/

@@ -1,0 +1,13 @@
+* -text
+*.pdf binary
+*.svg binary
+*.tif binary
+*.tiff binary
+*.png binary
+*.gz binary
+docs/figure_legends.md binary
+docs/manuscript_with_verified_citation_keys.md binary
+docs/reference_list.md binary
+tables/TABLE_1.md binary
+tables/TABLE_2.md binary
+supplementary/tables/HD_T7B_SUPPLEMENTARY_TABLE_S1.csv binary

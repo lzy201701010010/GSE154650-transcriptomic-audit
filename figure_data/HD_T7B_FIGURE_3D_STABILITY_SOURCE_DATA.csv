@@ -1,0 +1,8 @@
+"stability_class","n","display_class","analyte","denominator","percent"
+"DIRECTIONALLY_STABLE_LOW_PRECISION",229,"Low-precision
+directional","Mature miRNAs",670,34.1791044776119
+"MODEL_DEPENDENT",10,"Model-dependent","Mature miRNAs",670,1.49253731343284
+"ONLY_UNADJUSTED",1,"Only unadjusted","Mature miRNAs",670,0.149253731343284
+"SAMPLE_SENSITIVE",333,"Sample-sensitive","Mature miRNAs",670,49.7014925373134
+"UNSTABLE",4,"Unstable","Mature miRNAs",670,0.597014925373134
+"ZONE_DEPENDENT",93,"Zone-dependent","Mature miRNAs",670,13.8805970149254

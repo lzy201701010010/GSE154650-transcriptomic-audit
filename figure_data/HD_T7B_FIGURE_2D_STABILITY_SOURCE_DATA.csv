@@ -1,0 +1,6 @@
+"stability_class","n","display_class","analyte","denominator","percent"
+"DIRECTIONALLY_STABLE_LOW_PRECISION",4210,"Low-precision
+directional","mRNA genes",12161,34.6188635802977
+"MODEL_DEPENDENT",50,"Model-dependent","mRNA genes",12161,0.411150398815887
+"SAMPLE_SENSITIVE",4153,"Sample-sensitive","mRNA genes",12161,34.1501521256476
+"ZONE_DEPENDENT",3748,"Zone-dependent","mRNA genes",12161,30.8198338952389

@@ -1,0 +1,1371 @@
+module_id,module_name,source_library,source_term,source_gene_symbol
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),ADAM17
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),AGGF1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),AGTR1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),AKT1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),AKT3
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),ANG
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),APELA
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),APLN
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),APLNR
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),ARNT
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),CCL11
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),CCL24
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),CCL26
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),CDH13
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),ECM1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),EGF
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),EGFL7
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),EGR3
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),EMC10
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),F3
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),FGF2
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),FGFBP1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),FGFR1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),FLT4
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),GATA2
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),GDF2
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),HIF1A
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),HMGB1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),HMGB2
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),HMOX1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),HTR2B
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),ITGA4
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),ITGB3
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),JCAD
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),KDR
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),LRG1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),MDK
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),MYDGF
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),NR4A1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),NRAS
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),NRP1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),NRP2
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),NUS1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PDCD6
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PDCL3
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PDGFB
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PDPK1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PIK3CD
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PLCG1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PLXNB3
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PPP1R16B
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PRKCA
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PRKD1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PRKD2
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),PROX1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),SCG2
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),SEMA5A
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),SIRT1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),SIRT6
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),SP1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),STAT5A
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),TEK
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),TGFBR1
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),THBS4
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),TNFSF12
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),VASH2
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),VEGFA
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),VEGFB
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),WNT5A
+ENDOTHELIAL_ACTIVATION,endothelial activation,GO_Biological_Process_2026,Positive Regulation of Endothelial Cell Proliferation (GO:0001938),ZNF580
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ADAM12
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ADM2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),AGGF1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),AGO2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ANGPT4
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ANGPTL3
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ANGPTL4
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ANXA3
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),APELA
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),APLNR
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),AQP1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),BMPER
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),BRCA1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),BTG1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CCR3
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CD34
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CD40
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CDH5
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CHI3L1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CHRNA7
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CLIC3
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CTNNB1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CXCL8
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CXCR3
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),CYP1B1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),DLL1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),DSG2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ECM1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),EMC10
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),EMILIN2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),EMP2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),EPHA1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ETS1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),F3
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),FGF1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),FGF18
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),FGF2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),FLT1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),FOXC2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),FUT1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),GAB1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),GATA2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),GATA4
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),GATA6
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),GDF2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),GRN
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HIF1A
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HIPK1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HIPK2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HK2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HMGA2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HMOX1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HPSE
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HSPB1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HSPB6
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HTN1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),HYAL1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),IL1A
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),IL1B
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ISL1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ITGA5
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ITGAX
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ITGB1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ITGB8
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),JAK1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),JMJD8
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),JUP
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),KDR
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),KLF4
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),LRG1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),MDK
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),MTDH
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),MYDGF
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),NINJ1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),NODAL
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),NOS3
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),NTRK1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PAK4
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PDCD6
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PDCL3
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PDPK1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PIK3CD
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PIK3R6
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PKM
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PLCG1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PRKCA
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PRKCB
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PRKD1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PRKD2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),PTGIS
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),RAMP2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),RAPGEF3
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),RHOB
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),RLN2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),RRAS
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),RTN4
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),RUNX1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),S100A1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),SASH1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),SEMA5A
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),SERPINE1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),SFRP2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),SIRT1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),SIRT6
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),SMAD1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),SMOC2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),SP1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),SPHK1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),STIM1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),TEK
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),TGM2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),THBS1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),TIE1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),TJP1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),TMIGD2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),TNFSF12
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),TNN
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),TWIST1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),VASH2
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),VEGFA
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),VEGFB
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),WNK1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),WNT5A
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),XBP1
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ZC3H12A
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ZG16B
+ANGIOGENESIS,angiogenesis,GO_Biological_Process_2026,Positive Regulation of Angiogenesis (GO:0045766),ZNF304
+VASCULAR_REMODELING,venous/vascular remodeling,GO_Biological_Process_2026,Regulation of Blood Vessel Remodeling (GO:0060312),CEACAM1
+VASCULAR_REMODELING,venous/vascular remodeling,GO_Biological_Process_2026,Regulation of Blood Vessel Remodeling (GO:0060312),CST3
+VASCULAR_REMODELING,venous/vascular remodeling,GO_Biological_Process_2026,Regulation of Blood Vessel Remodeling (GO:0060312),FLT4
+VASCULAR_REMODELING,venous/vascular remodeling,GO_Biological_Process_2026,Regulation of Blood Vessel Remodeling (GO:0060312),HRG
+VASCULAR_REMODELING,venous/vascular remodeling,GO_Biological_Process_2026,Regulation of Blood Vessel Remodeling (GO:0060312),TGFB1
+VASCULAR_REMODELING,venous/vascular remodeling,GO_Biological_Process_2026,Regulation of Blood Vessel Remodeling (GO:0060312),TMBIM1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ABCA8
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ABCC9
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ACTA2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ACVRL1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ADAM33
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ADAMTS2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ADAMTS5
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ADGRA2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ADGRF5
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ADGRL4
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ADM
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ALPL
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ANGPT1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ANGPT2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ANGPTL2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ANPEP
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,AOC3
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,APLNR
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,AQP1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ASPN
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ATP13A5
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,BGN
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,C1QTNF1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,C1QTNF5
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,C1R
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,C1S
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,CCN2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,CD248
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,CDH11
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,CDH5
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,CLEC14A
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COG7
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL14A1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL15A1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL16A1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL1A1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL1A2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL3A1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL4A1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL4A2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL5A2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL6A1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL6A2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COL6A3
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COLEC11
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COX4I2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,COX7A1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,CRYAB
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,CSPG4
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,CXCL12
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,CYGB
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,DAAM2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,DCN
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,DDR2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,DES
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,DLK1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,DPT
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ECM1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ECM2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,EDNRA
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,EFEMP2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ELN
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,EMID1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,FABP4
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,FAP
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,FBLN2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,FBN1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,FIBIN
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,FMOD
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,FNDC1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,FOXC1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,FRZB
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,FSTL1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,GLI1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,GNB4
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,GPIHBP1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,HEYL
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,HIGD1B
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,HSD11B1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,HSPB2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,HSPB2-C11ORF52
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,HSPB6
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,HSPB7
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,HTRA1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,HTRA3
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ICAM1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,IFITM1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,IGFBP5
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,INPP4B
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ISLR
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,KCNJ8
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,KDR
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,LAMA2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,LAMA4
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,LDB2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,LHFPL6
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,LMOD1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,LUM
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,MCAM
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,MEDAG
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,MFAP4
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,MFGE8
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,MMP2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,MRGPRF
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,MSX1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,MXRA5
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,MXRA8
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,MYO1B
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,NDUFA4L2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,NOTCH3
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,NR1H3
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,NT5E
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,OLFML3
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,P2RY14
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PAMR1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PCDH18
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PDE5A
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PDGFRA
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PDGFRB
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PDZD2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PECAM1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PLPP3
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PLSCR4
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PODN
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,POSTN
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PRRX1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,PTH1R
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,RAMP2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,RARRES2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,RASL12
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,REM1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,RGS5
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ROBO4
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,SERPING1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,SGCD
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,SLC38A11
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,SLIT3
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,SOD3
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,SPARC
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,SPARCL1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,STEAP4
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,SVEP1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,SYNPO2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,TAGLN
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,TBX18
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,TEK
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,THBS2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,THY1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,TIMP3
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,TNS1
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,TNS2
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,VEGFA
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,VIM
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,VTN
+PERICYTE,pericyte,PanglaoDB_Augmented_2021,Pericytes,ZIC1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ABCA8
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ABI3BP
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ACTA2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ADAM33
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ADAMTS1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ADAMTS2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ADAMTS5
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ADAMTSL1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ADGRA2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ADGRL4
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ANGPTL2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,AQP1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ASPN
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,BGN
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,C1QTNF5
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,C1R
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,C1S
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,CACNA2D1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,CALD1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,CCDC80
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,CDH11
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,CNN1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL12A1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL14A1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL15A1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL16A1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL1A1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL1A2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL3A1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL4A1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL4A2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL5A1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL5A2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,COL6A3
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,CRYAB
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,CXCL12
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,DAAM2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,DCN
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,DDR2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,DLC1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,DPT
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ECM2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,EDNRA
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ELN
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,FAP
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,FAT4
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,FBN1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,FIBIN
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,FLNC
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,FMOD
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,FNDC1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,FSTL1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,GJA1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,HAND2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,HMCN1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,HSPB6
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,IGFBP5
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ISLR
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ITGA11
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,ITGA8
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,KCNJ8
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,LAMA2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,LAMA4
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,LMOD1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,LUM
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,MEDAG
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,MFAP4
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,MMP2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,MRGPRF
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,MSRB3
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,MXRA5
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,MYH11
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,MYLK
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,MYOCD
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,NID2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,OLFML3
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,PAMR1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,PCDH18
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,PDGFRA
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,PDGFRB
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,PODN
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,POSTN
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,PRKG1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,PRRX1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,RBMS3
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,RHOJ
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,RUNX1T1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,SEMA3D
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,SFRP4
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,SGCD
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,SLIT2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,SLIT3
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,SPARC
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,SSC5D
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,SULF1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,SVEP1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,SYNPO2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,TBX18
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,TEK
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,THBS2
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,THY1
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,VSTM4
+VASCULAR_SMOOTH_MUSCLE,vascular smooth muscle,PanglaoDB_Augmented_2021,Vascular Smooth Muscle Cells,WT1
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),AGT
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),AQP1
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),BMI1
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),CD74
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),CDK4
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),CDK6
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),CDKN1A
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),DDR2
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),DHX9
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),E2F1
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),EREG
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),FBLN1
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),FN1
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),GAS6
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),HTN3
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),IGF1
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),LIG4
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),MIF
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),MYC
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),PDGFA
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),PDGFB
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),PDGFC
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),PDGFRA
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),PLA2G1B
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),S100A6
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),SPHK1
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),WNT1
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),WNT2
+FIBROBLAST_ACTIVATION,fibroblast activation,GO_Biological_Process_2026,Positive Regulation of Fibroblast Proliferation (GO:0048146),WNT5A
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAM10
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAM15
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAM8
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS10
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS12
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS13
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS14
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS15
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS16
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS17
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS18
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS19
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS20
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS3
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS4
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS5
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS6
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS7
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS8
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTS9
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTSL2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ADAMTSL4
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),APLP1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),APP
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ATP7A
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),BMP1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CCDC80
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CCN3
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CLASP1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CLASP2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CMA1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL10A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL11A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL11A2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL12A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL13A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL14A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL15A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL16A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL17A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL18A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL19A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL1A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL1A2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL22A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL23A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL24A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL27A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL28A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL2A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL3A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL4A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL4A2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL4A3
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL4A4
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL4A5
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL4A6
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL5A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL5A2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL5A3
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL6A5
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL6A6
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL7A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL8A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL8A2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL9A1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL9A2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COL9A3
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COLEC12
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COLGALT1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COLGALT2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),COLQ
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CREB3L1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CRTAP
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CTSG
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CTSK
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CTSS
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CTSV
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),CYP1B1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),DAG1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),DDR2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),DMP1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),DPT
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ECM2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ELANE
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ELN
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ENG
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),EXOC8
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),FBN1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),FLOT1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),FLRT2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),FURIN
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),GAS6
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),GFOD2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),GPM6B
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),GREM1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),HAS1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),HAS2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),HAS3
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),HMCN1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),HPSE2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),IBSP
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ITGA2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ITGB1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),KIF9
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),KLK4
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),KLK5
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),KLK7
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),LAMC1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),LOX
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),LOXL1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),LOXL2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),LOXL3
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),LOXL4
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),LUM
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MANSC4
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MARCO
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MATN1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MATN2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MATN3
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MATN4
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MIA
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP10
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP11
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP12
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP13
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP14
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP15
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP16
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP17
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP19
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP20
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP21
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP23B
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP24
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP25
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP26
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP27
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP28
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP3
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP7
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP8
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),MMP9
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),NDNF
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),NF1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),NID1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),NID2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),NOXO1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),NPNT
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),OPTC
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),OTOL1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),P3H4
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),P4HA1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),PHLDB1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),PHLDB2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),PLG
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),PLOD1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),PLOD2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),PLOD3
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),POSTN
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),PRSS1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),PRSS2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),PXDN
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),QSOX1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),RECK
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),SCX
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),SERPINF2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),SERPINH1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),SH3PXD2B
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),SLC39A8
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),SMOC1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),SMOC2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),SPINK5
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),SPINT1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),SPOCK2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),ST7
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),TGFB1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),TGFB2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),TGFBI
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),TGFBR1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),TGM2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),THSD4
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),TLL1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),TLL2
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),TMPRSS6
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),TPSAB1
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),VIT
+EXTRACELLULAR_MATRIX_ORGANIZATION,extracellular matrix organization,GO_Biological_Process_2026,Extracellular Matrix Organization (GO:0030198),WASHC1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),ADAMTS14
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),ADAMTS19
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),ADAMTS2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),ADAMTS3
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),ATP7A
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),BMP1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),CCN3
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL11A1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL11A2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL12A1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL14A1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL1A1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL1A2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL28A1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL2A1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL3A1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL4A1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL4A2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL4A3
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL4A4
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL4A5
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL4A6
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL5A1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL5A2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COL5A3
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COLGALT1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),COLGALT2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),CRTAP
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),CYP1B1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),DDR2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),DPT
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),FBN1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),GREM1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),LOX
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),LOXL1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),LOXL2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),LOXL3
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),LOXL4
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),LUM
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),NF1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),OPTC
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),P3H4
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),P4HA1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),PLOD1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),PLOD2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),PLOD3
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),PXDN
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),SCX
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),SERPINF2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),SERPINH1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),TGFB2
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),TGFBR1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),TLL1
+COLLAGEN_ORGANIZATION,collagen organization,GO_Biological_Process_2026,Collagen Fibril Organization (GO:0030199),TLL2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,AKT2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ARHGAP5
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,RNASE3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PPP1R12C
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CAV2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,SOS1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LAMA5
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ROCK1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VASP
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,TLN2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PIP5K1A
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL9A1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL6A3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,EGFR
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,RASGRF1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ACTN4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PRKCB
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,TNN
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA9
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PARVG
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ZYX
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VCL
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,IGF1R
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CAV3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PPP1CA
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PTEN
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VWF
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA10
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL2A1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MAPK8
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,POTEF
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,RAC2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PPP1CC
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,SHC3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGB5
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MAP2K1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,DIAPH1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,RHOA
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PARVA
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,THBS2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PIK3R3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VAV1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PDGFRA
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,KCNH8
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,TNXB
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CAV1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL6A2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,THBS4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,THBS1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PRKCG
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,SLTM
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,AKT1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL6A1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGB7
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,SHC4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYL10
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VAV3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,GRB2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PKN2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGB4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYL7
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,NCOA3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PPP1R12A
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CCND3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYLK2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COMP
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYL5
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ERBB2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ACTN1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGB1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA5
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LAMC3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYLK4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PIK3CB
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,FLT4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL6A6
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LAMC2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,P3R3URF-PIK3R3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL6A5
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PPP1R12B
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,DOCK1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,BIRC3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,GSK3B
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,SHC1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYL2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,AKT3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA11
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,IGF1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,HRAS
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ARHGAP35
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL4A4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PIP5K1C
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ILK
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PIK3R2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VAV2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,IBSP
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CRK
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LAMC1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,FLT1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MAPK10
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CCND1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,TNR
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA7
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,FYN
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VEGFC
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,BIRC2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,FLNA
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CHAD
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PDGFD
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PAK4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PDGFA
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,JUN
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,XIAP
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PDGFRB
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PIK3CA
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,FN1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL4A1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LAMA1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL1A1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,EGF
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,BCAR1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PIK3R1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LAMB1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,BUB1B-PAK6
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYL9
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,RAP1B
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ARHGEF7
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYLK3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,EMP1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,SOS2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MAPK3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,FLNB
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA8
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYL12A
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,EMP2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PPP1CB
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ACTG1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,RAPGEF1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LAMB4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL4A6
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PDGFB
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CDC42
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CLSTN1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,RAP1A
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PDGFC
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PDPK1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MAPK1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VEGFA
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL9A3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PIP5K1B
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,THBS3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CCND2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PTK2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL9A2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGAV
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PARVB
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MAPK9
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,TLN1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,SRC
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VEGFB
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL4A2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CRKL
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,BRAF
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,BAD
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LAMA2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL4A5
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL1A2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,COL4A3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PXDN
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LAMA4
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VTN
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGB8
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LMNB2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA2B
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGB3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,TNNC1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CXXC1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PGF
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CAPN2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYL12B
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,RELN
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,CTNNB1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGB6
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYLK
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,BCL2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ROCK2
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PRKCA
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,KDR
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,RNASE1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,VEGFD
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,ITGA6
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,LAMB3
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,PKN1
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,MYL11
+FOCAL_ADHESION,focal adhesion,KEGG_2026,FOCAL ADHESION,SHC2
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),ANKRD1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),AQP1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),BAD
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),BAK1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),BCL10
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),BNIP3
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),CASP1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),CASP2
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),CASP5
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),CASP8
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),CASP8AP2
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),CD40
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),CHEK1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),CNN2
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),CRADD
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),F11R
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),FADD
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),FAS
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),GAB1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),GADD45A
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),HABP4
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),IL1B
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),IRF1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),KCNK4
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),LTBR
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),MAP2K4
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),MAP3K1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),MAP3K14
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),MAP3K2
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),MAPK3
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),MAPK8
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),MYD88
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),NFKB1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),PDE2A
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),PECAM1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),PIEZO1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),PIEZO2
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),PTGER4
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),PTPN11
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),SLC9A1
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),SOX9
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TEK
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TLR3
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TLR4
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TLR5
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TLR7
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TLR8
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TMEM150C
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TMEM87A
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TNFRSF10A
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TNFRSF10B
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TNFRSF1A
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TNFRSF8
+MECHANOTRANSDUCTION,mechanotransduction,GO_Biological_Process_2026,Cellular Response to Mechanical Stimulus (GO:0071260),TNFSF14
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),ALOX15
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),ANO5
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),ARHGEF19
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),ARL8B
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),C6ORF89
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP1A
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP1B
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP2A
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP2B
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP3
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP4A
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP4B
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP4C
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP5
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP6
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CHMP7
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CLDN1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),COL3A1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),CORO1B
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),DCBLD2
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),DSP
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),DST
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),ENG
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),EPB41L4B
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),EPPK1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),ERBB2
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),ERBB3
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),EREG
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),EVPL
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),FER1L5
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),FGF1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),FGF10
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),FGF2
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),FZD7
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),GATA4
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),HMOX1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),HPSE
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),IGF1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),INS
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),ITGB3
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),JAML
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),KRT6A
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),LACRT
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),LRG1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),MACF1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),MIA3
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),MMP12
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),MYH9
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),MYOF
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),MYOZ1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),NACA
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),NF1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),NOG
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),NRG1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),ODAM
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),PAK1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),PDGFA
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),PDGFRA
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),PLEC
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),POFUT3
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),PPL
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),PPP3CA
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),PRCP
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),RAB3A
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),RAF1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),SCARB1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),SLC11A1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),SMAD3
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),SMPD1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),SPRR3
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),SRF
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),SYT11
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),SYT7
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),SYTL4
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),TGFB2
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),TGFBR1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),TPM1
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),TRIM72
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),TSKU
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),VPS4A
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),VPS4B
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),WNT5A
+WOUND_RESPONSE,wound response,GO_Biological_Process_2026,Wound Healing (GO:0042060),WNT7A
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ABCF1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ACKR1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ADAM8
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ADCY1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ADCY8
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ADGRE5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ADM
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ADORA1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ADORA2A
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ADORA3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),AFAP1L2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),AGER
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),AGR2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),AGTR1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),AGTR2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),AIF1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),AIM2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ALOX15
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ANXA1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),AOC3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),APIP
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),APOL3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),AZU1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),BDKRB2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),BIRC2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),BIRC3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),BLNK
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),BMP2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),C3AR1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),C5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),C5AR1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),C5AR2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CAMP
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CARD18
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CARD8
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CASP1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CASP3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CASP4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CASP6
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CASP7
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CASP8
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL11
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL13
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL14
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL15
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL16
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL18
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL19
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL20
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL21
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL22
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL23
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL24
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL25
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL26
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL27
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL28
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL3L1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL4L1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL7
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCL8
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCR1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCR2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCR3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCR4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCR5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCR7
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CCRL2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CD36
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CD40
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CD40LG
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CD44
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CEBPB
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CELA1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CFH
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CHI3L1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CHST2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CHUK
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CMKLR1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CRP
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CSF1R
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CX3CL1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCL1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCL10
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCL11
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCL13
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCL2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCL5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCL6
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCL8
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCL9
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCR2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CXCR4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CYBA
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),CYBB
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),DHX9
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),DPP9
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ELANE
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ELF3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),EPX
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),F11R
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),F2R
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),FCGR2B
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),FOLR2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),FOS
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),FPR1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),FPR2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),FPR3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),FUT7
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GATA3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GGT5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GPR32
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GPR33
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GPR68
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GSDMA
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GSDMB
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GSDMC
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GSDMD
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GSDME
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GZMA
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),GZMB
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HBA1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HBB
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HDAC4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HDAC5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HDAC9
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HMGB1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HNRNPA0
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HP
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HPSE
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HRH1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HSPG2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HYAL1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),HYAL3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IFI27
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IFNA2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IFNG
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IKBKB
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IKBKG
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL10RB
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL13
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL17A
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL17C
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL17D
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL18
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL18RAP
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL1A
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL1B
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL1F10
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL1RAP
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL1RL1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL1RN
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL20RA
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL22
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL26
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL33
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL36A
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL36B
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL36G
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL36RN
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL37
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL6
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL6R
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL6ST
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IL9
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),IRAK2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ITCH
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ITGAL
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ITGB2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),KDM4D
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),KIT
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),KLRG1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),KRT16
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),LAT
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),LGALS9
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),LIAS
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),LOXL3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),LTB4R
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),LY75
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),LYN
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),LYZ
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),MAP3K20
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),MAP3K7
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),MAPK9
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),MAPKAPK2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),MEFV
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),MFHAS1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),MGLL
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),MMP25
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NAIP
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NAMPT
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NCR3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NFAM1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NFATC3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NFATC4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NFKB1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NFX1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NINJ1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NLRC4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NLRP1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NLRP3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NLRP6
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NLRP9
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NOD1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NOS2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NOX1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NOX4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),NRROS
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ODAM
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ORM1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PARP4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PF4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PF4V1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PIK3CD
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PIK3CG
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PJA2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PLA2G2D
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PLA2G2E
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PLA2G4B
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PLA2G4C
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PPBP
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PRDX5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PROK2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PTAFR
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PTGDR
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PTGER1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PTGER2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PTGER3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PTGER4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PTGFR
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PTGIR
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PTX3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PXK
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),PYCARD
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),RAC1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),REL
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),RELA
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),RELB
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),RIPK1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),RIPK2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),S100A12
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),S100A8
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),S100A9
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),S1PR3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),SCG2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),SCUBE1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),SELE
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),SERPINA3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),SIGLEC1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),SLC11A1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),SPINK7
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),STAT3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TAB2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TAC1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TAC4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TACR1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TBK1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TBXA2R
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),THBS1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TLR1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TLR10
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TLR2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TLR3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TLR4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TLR5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TLR6
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TMIGD3
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TNF
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TNFAIP6
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TNFRSF1A
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TNFRSF1B
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TNFRSF4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TNFSF4
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TRADD
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TRAF2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TRAF3IP2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TRAF5
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TREM2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TRIM14
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TRIM21
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TSPAN18
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TUSC2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),TXNIP
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),USP14
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),VCAM1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),VNN1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),WNT5A
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),XCL1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),XCL2
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),XCR1
+INFLAMMATORY_RESPONSE,inflammatory response,GO_Biological_Process_2026,Inflammatory Response (GO:0006954),ZBP1

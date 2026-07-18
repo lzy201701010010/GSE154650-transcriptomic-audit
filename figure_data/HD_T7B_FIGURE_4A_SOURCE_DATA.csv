@@ -1,0 +1,15 @@
+"model","fdr_significant_n","analyte"
+"Completely
+unadjusted",6111,"mRNA genes"
+"Sex/BMI adjusted,
+no zone",5389,"mRNA genes"
+"Full adjusted,
+including zone",0,"mRNA genes"
+"Reduced-zone",0,"mRNA genes"
+"Completely
+unadjusted",46,"Mature miRNAs"
+"Sex/BMI adjusted,
+no zone",45,"Mature miRNAs"
+"Full adjusted,
+including zone",0,"Mature miRNAs"
+"Reduced-zone",0,"Mature miRNAs"

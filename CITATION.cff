@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the versioned release."
+title: "GSE154650 transcriptomic sensitivity audit"
+type: software
+version: 1.0.0
+date-released: "2026-07-20"
+authors:
+  - given-names: "Zhiyao"
+    family-names: "Li"
+    orcid: "https://orcid.org/0009-0001-2696-6730"
+  - given-names: "Lili"
+    family-names: "Wang"
+    orcid: "https://orcid.org/0009-0006-3120-1026"
+  - given-names: "Qinghua"
+    family-names: "Luo"
+    orcid: "https://orcid.org/0000-0001-9767-9117"
+  - given-names: "Yunxiang"
+    family-names: "Wu"
+    email: "Wyx841106@163.com"
+    orcid: "https://orcid.org/0009-0008-7343-5503"
+repository-code: "https://github.com/lzy201701010010/GSE154650-transcriptomic-audit"
+license: MIT

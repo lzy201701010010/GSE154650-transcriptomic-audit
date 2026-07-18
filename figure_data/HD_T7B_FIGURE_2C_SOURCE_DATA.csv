@@ -1,0 +1,6 @@
+"metric","value","denominator"
+"No-zone FDR signals",5389,12161
+"Attenuated after zone addition",5255,5389
+"Direction reversals",1016,5389
+"Median |log2FC| before",0.512639874191254,5389
+"Median |log2FC| after",0.14854208193914,5389

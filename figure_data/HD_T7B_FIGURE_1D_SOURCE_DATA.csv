@@ -1,0 +1,8 @@
+"model","formula","n_patients"
+"Completely
+unadjusted","expression ~ disease group",38
+"Sex/BMI adjusted,
+no zone","expression ~ disease group + sex + centered BMI",38
+"Full adjusted,
+including zone","expression ~ disease group + sex + centered BMI + expression-derived zone",38
+"Reduced-zone","exclude anoderm; retain sex, centered BMI and zone",26

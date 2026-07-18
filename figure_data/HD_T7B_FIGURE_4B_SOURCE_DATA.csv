@@ -1,0 +1,5 @@
+"analyte","metric","numerator","denominator","percent"
+"mRNA genes","Attenuated",5255,5389,97.5134533308592
+"mRNA genes","Direction reversed",1016,5389,18.853219521247
+"Mature miRNAs","Attenuated",41,45,91.1111111111111
+"Mature miRNAs","Direction reversed",5,45,11.1111111111111

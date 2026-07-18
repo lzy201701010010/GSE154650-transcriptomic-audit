@@ -1,0 +1,4 @@
+source_library,source_file,sha256,file_size_bytes,retrieval_date,retrieval_endpoint
+GO_Biological_Process_2026,GO_Biological_Process_2026.gmt,93de35589130a5f4f1571764ec86e209d0f46d53d0ebdf5de5c7d869dd7046da,1461396,2026-07-16,https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=GO_Biological_Process_2026
+KEGG_2026,KEGG_2026.gmt,ff014e36320a8e4e09962f81ee7a720fb0001d3c349d021c118766b69fd78139,225899,2026-07-16,https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=KEGG_2026
+PanglaoDB_Augmented_2021,PanglaoDB_Augmented_2021.gmt,aa104e6a0c2b826fc93d8478ab8af7625dcbd5f10f87bed28a9c0a1f992632fe,153173,2026-07-16,https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=PanglaoDB_Augmented_2021
